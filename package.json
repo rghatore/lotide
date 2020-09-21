@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@rghatore/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the Lodash libary; completed as an academic project at Lighthouse Labs.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/rghatore/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rajdeep Ghatore",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rghatore/lotide/issues"
